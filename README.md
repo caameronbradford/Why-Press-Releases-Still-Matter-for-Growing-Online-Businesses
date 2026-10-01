@@ -70,7 +70,7 @@ A specialized SaaS company may need technology and business publications, while 
 
 Businesses can use direct journalist outreach, company newsrooms, distribution networks, or combinations of these approaches.
 
-Services are also becoming more specific about the audiences they address. **US newswire** focuses on distributing announcements from U.S. businesses, ecommerce brands, and SaaS companies through identified publication options while providing reporting on confirmed placements.
+Services are also becoming more specific about the audiences they address. <a href="http://us-newswire.com">US newswire</a> focuses on distributing announcements from U.S. businesses, ecommerce brands, and SaaS companies through identified publication options while providing reporting on confirmed placements.
 
 Regardless of the distribution method, relevance remains more important than simply sending an announcement to as many destinations as possible.
 
@@ -132,9 +132,7 @@ Before writing a release, businesses should ask whether something has actually c
 
 Does the announcement affect customers? Does it introduce meaningful data? Does it represent an important company milestone? Is there a broader industry connection?
 
-PRSA's guidance on press-release writing emphasizes newsworthiness and recommends focusing on timely, relevant developments rather than treating a release as an advertisement.
-
-Authority source: https://www.prsa.org/
+Guidance from the <a href="https://www.prsa.org/">Public Relations Society of America</a> emphasizes the importance of relevant, factual communication and understanding what journalists and their audiences actually need.
 
 That distinction becomes especially important as online businesses grow and generate more internal activity.
 
